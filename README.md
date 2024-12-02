@@ -1,0 +1,2 @@
+# bootstrap-check
+restau bootstrap
